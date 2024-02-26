@@ -1,5 +1,3 @@
-package edu.joelson.secondweek.calculadora_project;
-
 /**
 * <h1>Calculadora</h1>
 * A Calculadora realiza operações matemáticas entre números inteiros
@@ -22,5 +20,6 @@ public class calculadora {
   public int somar(int numeroUm, int numeroDois) {
     return  numeroUm + numeroDois;
     }
+    
     
 }
