@@ -1,4 +1,4 @@
-package edu.joelson.secondweek;
+package edu.joelson.secondweek.smart_tv_project;
 
 public class SmartTV{
     boolean estado = false;
