@@ -3,5 +3,3 @@ repositorio do curso de Java basico
 alterando o conteudo de um arquivo de forma local
 
 Teste de autenticação via chave .ssh;
-
-Realizando alterações de teste para o repositorio.
